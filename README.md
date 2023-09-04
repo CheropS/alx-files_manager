@@ -17,4 +17,4 @@ Required files:
 * [Babel.config.js](babel.config.js "Babel.config.js") 
 
 
-run 'npm install' after having [Package.json] (package.json "Package.json") file. 
+run 'npm install' after having [Package.json](package.json "Package.json") file. 
